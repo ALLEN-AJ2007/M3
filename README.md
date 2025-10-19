@@ -270,7 +270,8 @@ int main() {
 
 ## Output:
  
-<img width="455" height="211" alt="Screenshot 2025-10-19 185040" src="https://github.com/user-attachments/assets/542ba4ee-d001-4447-bb96-aa74702988d4" />
+<img width="455" height="323" alt="Screenshot 2025-10-19 185228" src="https://github.com/user-attachments/assets/268c0fe7-5448-4ef1-8512-6040c02e5edd" />
+
 
 
 ## Result:
